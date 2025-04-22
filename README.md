@@ -1,12 +1,13 @@
 # SOBRE MIM
-- 👋 Oi, eu sou o @ProfessorKleisson
-- 👀 Eu me interesso por filosofia, educação e aprimoramento da aprendizagem por meio da tecnologia.
-- 🌱 Eu estou aprendendo Java Script (com Alura) e Python (com Guanabara)
-- 💞 Eu procuro colaboração em Java Script e Python, idealizo aplicações para educação.
+- 👋 Oi, eu sou o @ProfessorKleisson;
+- 👀 Eu me interesso por filosofia, educação e aprimoramento da aprendizagem por meio da tecnologia;
+- 🎓 Mestre em Filosofia pela Universidade Estadual de Maringá;
+- 🌱 Eu estou aprendendo Java Script (com Alura) e Python (com Guanabara);
+- 💞 Eu procuro colaboração em Java Script e Python, idealizo aplicações para educação;
 - 📫 Como me encontrar:
-   - Intagram: @prof.kleissonfilosofia (falo de Filosofia)
-   - Youtube: Professor Kleisson (falo de Filosofia)
-   - Twitter: Professor Kleisson (falo nada, ninguém me segue)
+   - Intagram: @prof.kleissonfilosofia (falo de Filosofia);
+   - Youtube: Professor Kleisson (falo de Filosofia);
+   - Twitter: Professor Kleisson (falo nada, ninguém me segue);
    - Email: kleissongarves@gmail.com
 
 

@@ -2,7 +2,7 @@
 - 👋 Oi, eu sou o @ProfessorKleisson;
 - 👀 Eu me interesso por filosofia, educação e aprimoramento da aprendizagem por meio da tecnologia;
 - 🎓 Mestre em Filosofia pela Universidade Estadual de Maringá;
-- 🌱 Eu estou aprendendo JavaScript, Typescript, React e Next;
+- 🌱 Eu estou aprendendo JavaScript, Typescript, Nodw e React;
 - 💞 Eu procuro colaboração em Java Script e Python, idealizo aplicações para educação;
 - 📫 Como me encontrar:
    - Intagram: @prof.kleissonfilosofia (falo de Filosofia);
